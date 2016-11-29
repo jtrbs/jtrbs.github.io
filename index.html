@@ -19,24 +19,53 @@
 		<h1>CS240 Project1</h1>
 		<p align="middle"> By Tairan Jin</p>
 		<p>
-		In this website, you will find detailed actor information and movie informaion.
+		There are seven X-queries to deal with the XML documents: <a href="v-emps.xml">v-emps.xml</a> and <a href="v-depts.xml">v-depts.xml</a> The report is here:<a href="report.pdf">report</a>
 		</p>
+		<h2>1st X-query</h2>
 		<p>
-		Also, You can easily manage the database by clicking and typing.
+		<b>Problem:</b> Selection and Temporal Projection. Print the salary history of employee "Anneke Preusig."</br>
+		<b>Solution:</b> You can see the query <a href="11.xq">first.xq</a> and the result <a href="lmd_1.xml">first_result</a>. </br> 
+		<b>Note:To the extra Credit! ! !</b> I have converted the first_result according for the extra credit.</br>      
 		</p>
+		<h2>2nd X-query</h2>
 		<p>
-		What's more, you can look at others' reviews of movies and share your comments. 
+			<b>Problem:</b> Temporal Snapshot. Print  the name,  salary and department of  each employee who, on 1995-01-01, was making more than $80,000.</br>
+			<b>Solution:</b> You can see the query <a href="12.xq">second.xq</a> and the result <a href="lmd_2.xml">second_result</a>. </br> 
+			<b>Note:To the extra Credit! ! !</b> I have converted the second_result according for the extra credit.</br>   
 		</p>
+		<h2>3rd X-query</h2>
 		<p>
-		Now, let's start! 
+		<b>Problem:</b>Temporal Slicing. For all departments, print their histories for the period starting on 1994-05-01 and ending 1996-05-06. </br>
+		<b>Solution:</b> You can see the query <a href="13.xq">third.xq</a> and the result <a href="lmd_3.xml">third_result</a>. </br> 
+		<b>Note:To the extra Credit! ! !</b> I have converted the third_result according for the extra credit.</br>   
 		</p>
-		<form action="search.php" method="get">
-			<p>Search for actors/movies:
-			<br /><p>Please enter actor's name or movie title:
-			<input type="text" name="name" maxlength="100" />
-			<br /><p>
-			<input type="submit" value="Search!"/>
-		</form>  
+		<h2>4th X-query</h2>
+		<p>
+		<b>Problem:</b>Duration after Coalescing. For each employee, find the longest period (or periods) during which he/she went with no change in salary: for each employee  print the period(s), his/her name and the actual salary. </br>
+		<b>Solution:</b> You can see the query <a href="14.xq">forth.xq</a> and the result <a href="lmd_4.xml">forth_result</a>. </br> 
+		<b>Note:To the extra Credit! ! !</b> I have converted the forth_result according for the extra credit.</br>   
+		</p>
+		<h2>5th X-query</h2>
+		<p>
+		<b>Problem:</b>Temporal Join. For each employee find the longest consecuitive period  in which he/she worked  in the same  department and  the same department manager: Print the  employee number, his/her department number and  name,   his/her manager number,  and the period. </br>
+		<b>Solution:</b> You can see the query <a href="15.xq">fifth.xq</a> and the result <a href="lmd_5.xml">fifth_result</a>. </br> 
+		<b>Note:To the extra Credit! ! !</b> I have converted the fifth_result according for the extra credit.</br>   
+		</p>
+		<h2>6th X-query</h2>
+		<p>
+		<b>Problem:</b>Temporal Avg.  Print the history of the average salary for (i) the whole company and (ii) each job title. 
+		</br>
+		<b>For 6-1 Solution:</b> You can see the query <a href="16.xq">sixth-1.xq</a> and the result <a href="lmd_6a.xml">sixth-1_result</a>. </br> 
+		<b>Note:To the extra Credit! ! !</b> I have converted the result according for the extra credit.</br>   
+        <b>For 6-2 Solution:</b> You can see the query <a href="16_2.xq">sixth-2.xq</a> and the result <a href="lmd_6b.xml">sixth-2_result</a>. </br> 
+		<b>Note:To the extra Credit! ! !</b> I have converted the result according for the extra credit.</br>  
+		</p>
+		<h2>7th X-query</h2>
+		<p>
+		<b>Problem:</b>Temporal Max.   For the employees  in department d005,  find  the maximum of their salaries over time,  and print the history of such a maximum. </br>
+		<b>Solution:</b> You can see the query <a href="17.xq">seventh.xq</a> and the result <a href="lmd_7.xml">seventh result</a>. </br> 
+		<b>Note:To the extra Credit! ! !</b> I have converted the seventh_result according for the extra credit.</br>   
+		</p>
     </div>
 </div>
 </body>
