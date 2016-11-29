@@ -13,7 +13,7 @@
 	  <th align="left">End Time</th>
 	  <th align="left">Salary</th>
     </tr>
-    <xsl:for-each select="dept_history/dept">
+    <xsl:for-each select="duration/employee/longest_period">
     <tr>
       <td><xsl:value-of select="name"/></td>
 	  <td><xsl:value-of select="tstart"/></td>
