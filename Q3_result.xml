@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Q3_style.xsl"?>
+
+<dept_history>
+  <dept>
+    <deptno>d001</deptno>
+    <deptname>Marketing</deptname>
+    <mgrno>110039</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+  <dept>
+    <deptno>d002</deptno>
+    <deptname>Finance</deptname>
+    <mgrno>110114</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+  <dept>
+    <deptno>d003</deptno>
+    <deptname>Human Resources</deptname>
+    <mgrno>110228</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+  <dept>
+    <deptno>d004</deptno>
+    <deptname>Production</deptname>
+    <mgrno>110386</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+  <dept>
+    <deptno>d005</deptno>
+    <deptname>Development</deptname>
+    <mgrno>110567</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+  <dept>
+    <deptno>d006</deptno>
+    <deptname>Quality Management</deptname>
+    <mgrno>110800</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1994-06-28</tend>
+  </dept>
+  <dept>
+    <deptno>d006</deptno>
+    <deptname>Quality Management</deptname>
+    <mgrno>110854</mgrno>
+    <tstart>1994-06-28</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+  <dept>
+    <deptno>d007</deptno>
+    <deptname>Sales</deptname>
+    <mgrno>111133</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+  <dept>
+    <deptno>d008</deptno>
+    <deptname>Research</deptname>
+    <mgrno>111534</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+  <dept>
+    <deptno>d009</deptno>
+    <deptname>Cuustomer Service</deptname>
+    <mgrno>111877</mgrno>
+    <tstart>1994-05-01</tstart>
+    <tend>1996-01-03</tend>
+  </dept>
+  <dept>
+    <deptno>d009</deptno>
+    <deptname>Cuustomer Service</deptname>
+    <mgrno>111939</mgrno>
+    <tstart>1996-01-03</tstart>
+    <tend>1996-05-06</tend>
+  </dept>
+</dept_history>
