@@ -19,9 +19,9 @@
 	<xsl:for-each select="title_history">
 	<tr>
 	  <td><xsl:value-of select="../name"/></td>
-	  <td><xsl:value-of select="title"/></td>
-	  <td><xsl:value-of select="tstart"/></td>
-	  <td><xsl:value-of select="tend"/></td>
+	  <td><xsl:value-of select="title/title_name"/></td>
+	  <td><xsl:value-of select="title/tstart"/></td>
+	  <td><xsl:value-of select="title/tend"/></td>
 	</tr>
 	</xsl:for-each>
 	</table>
