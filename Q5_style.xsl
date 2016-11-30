@@ -7,7 +7,8 @@
   <body>
     <h2>Duration Results</h2>
     <xsl:for-each select="employees/employee">
-	<h3>Title History</h3>
+	<h3>*************** One Employee ***************</h3>
+	<h4>Title History</h4>
 	<table border="1">
     <tr bgcolor="#9acd32">
 	  <th align="left">Name</th>
@@ -25,7 +26,7 @@
 	</xsl:for-each>
 	</table>
 	
-	<h3>Manager History</h3>
+	<h4>Manager History</h4>
 	<table border="1">
     <tr bgcolor="#9acd32">
 	  <th align="left">Name</th>
@@ -42,6 +43,7 @@
 	</tr>
 	</xsl:for-each>
 	</table>
+	<h3>**********************************************</h3>
     </xsl:for-each>
     
   </body>
