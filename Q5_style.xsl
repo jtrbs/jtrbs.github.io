@@ -6,24 +6,44 @@
   <html>
   <body>
     <h2>Duration Results</h2>
-    <table border="1">
+    <xsl:for-each select="employees/employee">
+	<h3>Title History</h3>
+	<table border="1">
     <tr bgcolor="#9acd32">
-      <th align="left">Name</th>
+	  <th align="left">Name</th>
 	  <th align="left">Title</th>
 	  <th align="left">Start Time</th>
 	  <th align="left">End Time</th>
     </tr>
-    <xsl:for-each select="employees/employee">
-    <tr>
-      <td><xsl:value-of select="name"/></td>
-	  <xsl:for-each select="employees/employee/title">
-		  <td><xsl:value-of select="title"/></td>
-		  <td><xsl:value-of select="tstart"/></td>
-		  <td><xsl:value-of select="tend"/></td>
-	  <xsl:for-each>
+	<xsl:for-each select="title_history">
+	<tr>
+	  <td><xsl:value-of select="../name"/></td>
+	  <td><xsl:value-of select="title"/></td>
+	  <td><xsl:value-of select="tstart"/></td>
+	  <td><xsl:value-of select="tend"/></td>
+	</tr>
+	</xsl:for-each>
+	</table>
+	
+	<h3>Manager History</h3>
+	<table border="1">
+    <tr bgcolor="#9acd32">
+	  <th align="left">Name</th>
+	  <th align="left">Mgrno</th>
+	  <th align="left">Start Time</th>
+	  <th align="left">End Time</th>
     </tr>
+	<xsl:for-each select="manager_history">
+	<tr>
+	  <td><xsl:value-of select="../name"/></td>
+	  <td><xsl:value-of select="manager/mgrno"/></td>
+	  <td><xsl:value-of select="manager/tstart"/></td>
+	  <td><xsl:value-of select="manager/tend"/></td>
+	</tr>
+	</xsl:for-each>
+	</table>
     </xsl:for-each>
-    </table>
+    
   </body>
   </html>
 </xsl:template>
