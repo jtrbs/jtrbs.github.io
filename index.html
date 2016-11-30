@@ -22,43 +22,42 @@
 		In this project, I use XQuery to write queries on <a href="v-emps.xml">v-emps.xml</a> and <a href="v-depts.xml">v-depts.xml</a> 
 		to solve following problems. I use baseX to develop and test. Also I have solved two problems with extra credits successfully. 
 		</p>
-		<b>Note: All the results are visualized with stylesheets for Ectra Credit!</b>
+		<h2>Note: All the results are visualized with stylesheets for Ectra Credit!</h2>
 		<h2>Problem1</h2>
 		<p>
-		<b>Problem:</b> Selection and Temporal Projection. Print the salary history of employee "Anneke Preusig."</br>
-		<b>Solution:</b> You can see the query <a href="Query1.xq">first.xq</a> and the result <a href="Q1_result.xml">Q1_result</a>. </br> 
+		Selection and Temporal Projection. Retrieve the employment history of employee "Anneke Preusig" (i.e., the departments where she worked and the periods during which she worked there)</br>
+		<b>Solution:</b> The query is <a href="Query1.xq">Query1.xq</a> and the result is <a href="Q1_result.xml">Q1_result</a> visualized with stylesheets. </br> 
 		</p>
 		<h2>Problem2</h2>
 		<p>
-			<b>Problem:</b> Temporal Snapshot. Print  the name,  salary and department of  each employee who, on 1995-01-01, was making more than $80,000.</br>
-			<b>Solution:</b> You can see the query <a href="12.xq">second.xq</a> and the result <a href="Q2_result.xml">Q2_result</a>. </br> 
+		Temporal Snapshot. Retrieve the name, salary and department of each employee who, on 1995-01-06 was making less than $44000.</br>
+		<b>Solution:</b> You can see the query <a href="Query2.xq">Query2.xq</a> and the result is <a href="Q2_result.xml">Q2_result</a> visualized with stylesheets. </br> 
 		</p>
 		<h2>Problem3</h2>
 		<p>
-		<b>Problem:</b>Temporal Slicing. For all departments, print their histories for the period starting on 1994-05-01 and ending 1996-05-06. </br>
-		<b>Solution:</b> You can see the query <a href="13.xq">third.xq</a> and the result <a href="Q3_result.xml">Q3_result</a>. </br>   
+		Temporal Slicing. For all departments, show their history in the period starting on 1994-05-01 and ending 1996-05-06.</br>
+		<b>Solution:</b> The query is <a href="Query3.xq">Query3.xq</a> and the result is <a href="Q3_result.xml">Q3_result</a> visualized with stylesheets. </br>   
 		</p>
 		<h2>Problem4</h2>
 		<p>
-		<b>Problem:</b>Duration after Coalescing. For each employee, find the longest period (or periods) during which he/she went with no change in salary: for each employee  print the period(s), his/her name and the actual salary. </br>
-		<b>Solution:</b> You can see the query <a href="14.xq">forth.xq</a> and the result <a href="Q4_result.xml">Q4_result</a>. </br> 
+		Duration: For each employee, show the longest period during which he/she went with no change in salary and his/her salary during that time.</br>
+		<b>Solution:</b> You can see the query <a href="Query4.xq">Query4.xq</a> and the result is <a href="Q4_result.xml">Q4_result</a> visualized with stylesheets. </br> 
 		</p>
 		<h2>Problem5</h2>
 		<p>
-		<b>Problem:</b>Temporal Join. For each employee find the longest consecuitive period  in which he/she worked  in the same  department and  the same department manager: Print the  employee number, his/her department number and  name,   his/her manager number,  and the period. </br>
-		<b>Solution:</b> You can see the query <a href="15.xq">fifth.xq</a> and the result <a href="Q5_result.xml">Q5_result</a>. </br> 
+		Temporal Join. For each employee show title history and his/her manager history</br>
+		<b>Solution:</b> The query is <a href="Query5.xq">Query5.xq</a> and the result is <a href="Q5_result.xml">Q5_result</a> visualized with stylesheets. </br> 
 		</p>
 		<h2>Problem6</h2>
 		<p>
-		<b>Problem:</b>Temporal Avg.  Print the history of the average salary for (i) the whole company and (ii) each job title. 
-		</br>
-		<b>For 6-1 Solution:</b> You can see the query <a href="16.xq">sixth-1.xq</a> and the result <a href="Q6_1_result.xml">Q6_1_result</a>. </br> 
-        <b>For 6-2 Solution:</b> You can see the query <a href="16_2.xq">sixth-2.xq</a> and the result <a href="Q6_2_result.xml">Q6_2_result</a>. </br> 
+		Temporal Count. Print the history of employee count for (i) each department, and (ii) the whole company.</br>
+		<b>(i) Solution:</b> The query is <a href="Query6_1.xq">Query6_1.xq</a> and the result is <a href="Q6_1_result.xml">Q6_1_result</a> visualized with stylesheets. </br> 
+        <b>(ii) Solution:</b> The query is <a href="Query6_2.xq">Query6_2.xq</a> and the result is <a href="Q6_2_result.xml">Q6_2_result</a> visualized with stylesheets. </br> 
 		</p>
 		<h2>Problem7</h2>
 		<p>
-		<b>Problem:</b>Temporal Max.   For the employees  in department d005,  find  the maximum of their salaries over time,  and print the history of such a maximum. </br>
-		<b>Solution:</b> You can see the query <a href="17.xq">seventh.xq</a> and the result <a href="Q7_result.xml">Q7_result</a>. </br>  
+		Temporal Max. For the employees in department d005, find the maximum of their salaries over time, and print the history of such a maximum.</br>
+		<b>Solution:</b> The query is <a href="Query7.xq">Query7.xq</a> and the result is <a href="Q7_result.xml">Q7_result</a> visualized with stylesheets. </br>  
 		</p>
     </div>
 </div>
