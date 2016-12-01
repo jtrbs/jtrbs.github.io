@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="Q6_2_style.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Q6_1_style.xsl"?>
 
 <company_employee_count_historty>
   <employee_count>
@@ -205,6 +205,10 @@
   <employee_count>
     <date>1987-01-02</date>
     <count>54</count>
+  </employee_count>
+  <employee_count>
+    <date>1987-01-27</date>
+    <count>53</count>
   </employee_count>
   <employee_count>
     <date>1987-02-21</date>
@@ -479,6 +483,10 @@
     <count>124</count>
   </employee_count>
   <employee_count>
+    <date>1989-02-06</date>
+    <count>123</count>
+  </employee_count>
+  <employee_count>
     <date>1989-02-10</date>
     <count>124</count>
   </employee_count>
@@ -517,6 +525,10 @@
   <employee_count>
     <date>1989-05-28</date>
     <count>133</count>
+  </employee_count>
+  <employee_count>
+    <date>1989-06-03</date>
+    <count>132</count>
   </employee_count>
   <employee_count>
     <date>1989-06-05</date>
@@ -575,6 +587,10 @@
     <count>146</count>
   </employee_count>
   <employee_count>
+    <date>1989-10-06</date>
+    <count>145</count>
+  </employee_count>
+  <employee_count>
     <date>1989-11-12</date>
     <count>146</count>
   </employee_count>
@@ -605,6 +621,10 @@
   <employee_count>
     <date>1990-01-10</date>
     <count>153</count>
+  </employee_count>
+  <employee_count>
+    <date>1990-01-15</date>
+    <count>152</count>
   </employee_count>
   <employee_count>
     <date>1990-01-17</date>
@@ -659,8 +679,16 @@
     <count>166</count>
   </employee_count>
   <employee_count>
+    <date>1990-08-17</date>
+    <count>165</count>
+  </employee_count>
+  <employee_count>
     <date>1990-09-02</date>
     <count>166</count>
+  </employee_count>
+  <employee_count>
+    <date>1990-09-07</date>
+    <count>165</count>
   </employee_count>
   <employee_count>
     <date>1990-09-15</date>
@@ -723,6 +751,10 @@
     <count>180</count>
   </employee_count>
   <employee_count>
+    <date>1991-01-02</date>
+    <count>179</count>
+  </employee_count>
+  <employee_count>
     <date>1991-02-01</date>
     <count>180</count>
   </employee_count>
@@ -777,6 +809,10 @@
   <employee_count>
     <date>1991-08-13</date>
     <count>195</count>
+  </employee_count>
+  <employee_count>
+    <date>1991-08-25</date>
+    <count>194</count>
   </employee_count>
   <employee_count>
     <date>1991-08-30</date>
@@ -875,6 +911,10 @@
     <count>221</count>
   </employee_count>
   <employee_count>
+    <date>1992-03-02</date>
+    <count>220</count>
+  </employee_count>
+  <employee_count>
     <date>1992-03-03</date>
     <count>221</count>
   </employee_count>
@@ -925,6 +965,14 @@
   <employee_count>
     <date>1992-05-22</date>
     <count>232</count>
+  </employee_count>
+  <employee_count>
+    <date>1992-05-24</date>
+    <count>231</count>
+  </employee_count>
+  <employee_count>
+    <date>1992-06-02</date>
+    <count>230</count>
   </employee_count>
   <employee_count>
     <date>1992-06-04</date>
@@ -1043,6 +1091,10 @@
     <count>262</count>
   </employee_count>
   <employee_count>
+    <date>1993-02-12</date>
+    <count>261</count>
+  </employee_count>
+  <employee_count>
     <date>1993-02-14</date>
     <count>262</count>
   </employee_count>
@@ -1053,6 +1105,10 @@
   <employee_count>
     <date>1993-03-21</date>
     <count>264</count>
+  </employee_count>
+  <employee_count>
+    <date>1993-03-24</date>
+    <count>263</count>
   </employee_count>
   <employee_count>
     <date>1993-03-31</date>
@@ -1075,6 +1131,10 @@
     <count>268</count>
   </employee_count>
   <employee_count>
+    <date>1993-05-22</date>
+    <count>267</count>
+  </employee_count>
+  <employee_count>
     <date>1993-06-16</date>
     <count>268</count>
   </employee_count>
@@ -1089,6 +1149,18 @@
   <employee_count>
     <date>1993-08-03</date>
     <count>271</count>
+  </employee_count>
+  <employee_count>
+    <date>1993-08-05</date>
+    <count>270</count>
+  </employee_count>
+  <employee_count>
+    <date>1993-08-10</date>
+    <count>269</count>
+  </employee_count>
+  <employee_count>
+    <date>1993-08-22</date>
+    <count>268</count>
   </employee_count>
   <employee_count>
     <date>1993-08-23</date>
@@ -1113,6 +1185,10 @@
   <employee_count>
     <date>1993-10-25</date>
     <count>274</count>
+  </employee_count>
+  <employee_count>
+    <date>1993-10-27</date>
+    <count>273</count>
   </employee_count>
   <employee_count>
     <date>1993-10-28</date>
@@ -1143,6 +1219,10 @@
     <count>280</count>
   </employee_count>
   <employee_count>
+    <date>1994-01-05</date>
+    <count>279</count>
+  </employee_count>
+  <employee_count>
     <date>1994-01-07</date>
     <count>280</count>
   </employee_count>
@@ -1165,6 +1245,14 @@
   <employee_count>
     <date>1994-03-10</date>
     <count>287</count>
+  </employee_count>
+  <employee_count>
+    <date>1994-03-17</date>
+    <count>286</count>
+  </employee_count>
+  <employee_count>
+    <date>1994-03-20</date>
+    <count>285</count>
   </employee_count>
   <employee_count>
     <date>1994-03-21</date>
@@ -1275,6 +1363,10 @@
     <count>312</count>
   </employee_count>
   <employee_count>
+    <date>1994-12-30</date>
+    <count>311</count>
+  </employee_count>
+  <employee_count>
     <date>1995-01-02</date>
     <count>312</count>
   </employee_count>
@@ -1293,6 +1385,10 @@
   <employee_count>
     <date>1995-02-19</date>
     <count>316</count>
+  </employee_count>
+  <employee_count>
+    <date>1995-02-20</date>
+    <count>315</count>
   </employee_count>
   <employee_count>
     <date>1995-03-20</date>
@@ -1327,6 +1423,10 @@
     <count>323</count>
   </employee_count>
   <employee_count>
+    <date>1995-05-24</date>
+    <count>322</count>
+  </employee_count>
+  <employee_count>
     <date>1995-05-25</date>
     <count>323</count>
   </employee_count>
@@ -1341,6 +1441,10 @@
   <employee_count>
     <date>1995-06-27</date>
     <count>326</count>
+  </employee_count>
+  <employee_count>
+    <date>1995-07-22</date>
+    <count>325</count>
   </employee_count>
   <employee_count>
     <date>1995-07-24</date>
@@ -1423,8 +1527,16 @@
     <count>345</count>
   </employee_count>
   <employee_count>
+    <date>1996-03-29</date>
+    <count>344</count>
+  </employee_count>
+  <employee_count>
     <date>1996-04-12</date>
     <count>345</count>
+  </employee_count>
+  <employee_count>
+    <date>1996-04-20</date>
+    <count>344</count>
   </employee_count>
   <employee_count>
     <date>1996-04-22</date>
@@ -1463,6 +1575,10 @@
     <count>355</count>
   </employee_count>
   <employee_count>
+    <date>1996-07-21</date>
+    <count>354</count>
+  </employee_count>
+  <employee_count>
     <date>1996-07-31</date>
     <count>355</count>
   </employee_count>
@@ -1481,6 +1597,10 @@
   <employee_count>
     <date>1996-08-24</date>
     <count>359</count>
+  </employee_count>
+  <employee_count>
+    <date>1996-08-27</date>
+    <count>358</count>
   </employee_count>
   <employee_count>
     <date>1996-08-30</date>
@@ -1513,6 +1633,10 @@
   <employee_count>
     <date>1996-10-23</date>
     <count>366</count>
+  </employee_count>
+  <employee_count>
+    <date>1996-11-09</date>
+    <count>365</count>
   </employee_count>
   <employee_count>
     <date>1996-11-16</date>
@@ -1549,6 +1673,10 @@
   <employee_count>
     <date>1997-02-14</date>
     <count>375</count>
+  </employee_count>
+  <employee_count>
+    <date>1997-03-07</date>
+    <count>374</count>
   </employee_count>
   <employee_count>
     <date>1997-04-04</date>
@@ -1591,6 +1719,10 @@
     <count>385</count>
   </employee_count>
   <employee_count>
+    <date>1997-08-16</date>
+    <count>384</count>
+  </employee_count>
+  <employee_count>
     <date>1997-08-22</date>
     <count>385</count>
   </employee_count>
@@ -1619,8 +1751,20 @@
     <count>391</count>
   </employee_count>
   <employee_count>
+    <date>1997-10-15</date>
+    <count>390</count>
+  </employee_count>
+  <employee_count>
     <date>1997-10-23</date>
     <count>391</count>
+  </employee_count>
+  <employee_count>
+    <date>1997-10-30</date>
+    <count>390</count>
+  </employee_count>
+  <employee_count>
+    <date>1997-11-08</date>
+    <count>389</count>
   </employee_count>
   <employee_count>
     <date>1997-12-10</date>
@@ -1637,6 +1781,14 @@
   <employee_count>
     <date>1998-01-12</date>
     <count>393</count>
+  </employee_count>
+  <employee_count>
+    <date>1998-01-16</date>
+    <count>392</count>
+  </employee_count>
+  <employee_count>
+    <date>1998-01-23</date>
+    <count>391</count>
   </employee_count>
   <employee_count>
     <date>1998-02-02</date>
@@ -1663,6 +1815,10 @@
     <count>397</count>
   </employee_count>
   <employee_count>
+    <date>1998-02-22</date>
+    <count>396</count>
+  </employee_count>
+  <employee_count>
     <date>1998-03-11</date>
     <count>397</count>
   </employee_count>
@@ -1673,6 +1829,10 @@
   <employee_count>
     <date>1998-04-01</date>
     <count>399</count>
+  </employee_count>
+  <employee_count>
+    <date>1998-04-06</date>
+    <count>398</count>
   </employee_count>
   <employee_count>
     <date>1998-04-25</date>
@@ -1759,8 +1919,16 @@
     <count>419</count>
   </employee_count>
   <employee_count>
+    <date>1998-11-01</date>
+    <count>418</count>
+  </employee_count>
+  <employee_count>
     <date>1998-11-04</date>
     <count>419</count>
+  </employee_count>
+  <employee_count>
+    <date>1998-11-11</date>
+    <count>418</count>
   </employee_count>
   <employee_count>
     <date>1998-12-16</date>
@@ -1771,12 +1939,20 @@
     <count>420</count>
   </employee_count>
   <employee_count>
+    <date>1999-01-06</date>
+    <count>419</count>
+  </employee_count>
+  <employee_count>
     <date>1999-01-23</date>
     <count>420</count>
   </employee_count>
   <employee_count>
     <date>1999-01-24</date>
     <count>421</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-01-26</date>
+    <count>420</count>
   </employee_count>
   <employee_count>
     <date>1999-01-30</date>
@@ -1787,8 +1963,16 @@
     <count>422</count>
   </employee_count>
   <employee_count>
+    <date>1999-02-23</date>
+    <count>421</count>
+  </employee_count>
+  <employee_count>
     <date>1999-03-03</date>
     <count>422</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-03-08</date>
+    <count>421</count>
   </employee_count>
   <employee_count>
     <date>1999-03-20</date>
@@ -1811,8 +1995,20 @@
     <count>426</count>
   </employee_count>
   <employee_count>
+    <date>1999-05-04</date>
+    <count>425</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-05-07</date>
+    <count>424</count>
+  </employee_count>
+  <employee_count>
     <date>1999-05-13</date>
     <count>425</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-05-15</date>
+    <count>424</count>
   </employee_count>
   <employee_count>
     <date>1999-05-17</date>
@@ -1843,6 +2039,14 @@
     <count>431</count>
   </employee_count>
   <employee_count>
+    <date>1999-08-06</date>
+    <count>430</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-08-14</date>
+    <count>429</count>
+  </employee_count>
+  <employee_count>
     <date>1999-09-03</date>
     <count>430</count>
   </employee_count>
@@ -1853,6 +2057,10 @@
   <employee_count>
     <date>1999-09-17</date>
     <count>432</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-09-20</date>
+    <count>431</count>
   </employee_count>
   <employee_count>
     <date>1999-09-27</date>
@@ -1875,12 +2083,32 @@
     <count>436</count>
   </employee_count>
   <employee_count>
+    <date>1999-10-31</date>
+    <count>435</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-11-01</date>
+    <count>434</count>
+  </employee_count>
+  <employee_count>
     <date>1999-11-03</date>
     <count>435</count>
   </employee_count>
   <employee_count>
+    <date>1999-11-09</date>
+    <count>434</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-11-14</date>
+    <count>433</count>
+  </employee_count>
+  <employee_count>
     <date>1999-12-01</date>
     <count>434</count>
+  </employee_count>
+  <employee_count>
+    <date>1999-12-06</date>
+    <count>433</count>
   </employee_count>
   <employee_count>
     <date>1999-12-29</date>
@@ -1901,5 +2129,153 @@
   <employee_count>
     <date>2000-01-26</date>
     <count>438</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-02-04</date>
+    <count>437</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-02-21</date>
+    <count>436</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-04-26</date>
+    <count>435</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-06-06</date>
+    <count>434</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-06-30</date>
+    <count>433</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-07-09</date>
+    <count>432</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-07-10</date>
+    <count>431</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-07-31</date>
+    <count>430</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-08-10</date>
+    <count>429</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-08-15</date>
+    <count>428</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-09-23</date>
+    <count>427</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-10-04</date>
+    <count>426</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-10-27</date>
+    <count>425</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-11-15</date>
+    <count>423</count>
+  </employee_count>
+  <employee_count>
+    <date>2000-12-05</date>
+    <count>422</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-01-09</date>
+    <count>421</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-01-15</date>
+    <count>420</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-03-13</date>
+    <count>419</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-04-14</date>
+    <count>418</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-04-15</date>
+    <count>417</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-04-25</date>
+    <count>416</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-06-11</date>
+    <count>415</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-06-15</date>
+    <count>414</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-07-26</date>
+    <count>413</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-08-13</date>
+    <count>412</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-10-11</date>
+    <count>411</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-10-20</date>
+    <count>410</count>
+  </employee_count>
+  <employee_count>
+    <date>2001-12-23</date>
+    <count>409</count>
+  </employee_count>
+  <employee_count>
+    <date>2002-01-01</date>
+    <count>408</count>
+  </employee_count>
+  <employee_count>
+    <date>2002-01-02</date>
+    <count>407</count>
+  </employee_count>
+  <employee_count>
+    <date>2002-01-31</date>
+    <count>406</count>
+  </employee_count>
+  <employee_count>
+    <date>2002-05-06</date>
+    <count>405</count>
+  </employee_count>
+  <employee_count>
+    <date>2002-05-08</date>
+    <count>404</count>
+  </employee_count>
+  <employee_count>
+    <date>2002-06-22</date>
+    <count>403</count>
+  </employee_count>
+  <employee_count>
+    <date>2002-07-06</date>
+    <count>401</count>
+  </employee_count>
+  <employee_count>
+    <date>2002-07-15</date>
+    <count>400</count>
+  </employee_count>
+  <employee_count>
+    <date>9999-12-31</date>
+    <count>400</count>
   </employee_count>
 </company_employee_count_historty>

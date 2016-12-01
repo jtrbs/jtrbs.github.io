@@ -99,6 +99,10 @@
     <salary>70375</salary>
   </max_salary>
   <max_salary>
+    <date>1987-01-27</date>
+    <salary>70375</salary>
+  </max_salary>
+  <max_salary>
     <date>1987-02-26</date>
     <salary>72147</salary>
   </max_salary>
@@ -287,6 +291,10 @@
     <salary>76648</salary>
   </max_salary>
   <max_salary>
+    <date>1988-09-17</date>
+    <salary>76648</salary>
+  </max_salary>
+  <max_salary>
     <date>1988-09-23</date>
     <salary>76648</salary>
   </max_salary>
@@ -316,6 +324,10 @@
   </max_salary>
   <max_salary>
     <date>1988-12-11</date>
+    <salary>76648</salary>
+  </max_salary>
+  <max_salary>
+    <date>1988-12-16</date>
     <salary>76648</salary>
   </max_salary>
   <max_salary>
@@ -436,6 +448,10 @@
   </max_salary>
   <max_salary>
     <date>1989-09-30</date>
+    <salary>78885</salary>
+  </max_salary>
+  <max_salary>
+    <date>1989-10-06</date>
     <salary>78885</salary>
   </max_salary>
   <max_salary>
@@ -755,6 +771,10 @@
     <salary>84064</salary>
   </max_salary>
   <max_salary>
+    <date>1991-08-25</date>
+    <salary>84064</salary>
+  </max_salary>
+  <max_salary>
     <date>1991-08-27</date>
     <salary>84064</salary>
   </max_salary>
@@ -920,6 +940,10 @@
   </max_salary>
   <max_salary>
     <date>1992-05-29</date>
+    <salary>86445</salary>
+  </max_salary>
+  <max_salary>
+    <date>1992-06-02</date>
     <salary>86445</salary>
   </max_salary>
   <max_salary>
@@ -1115,6 +1139,10 @@
     <salary>86445</salary>
   </max_salary>
   <max_salary>
+    <date>1993-04-01</date>
+    <salary>86445</salary>
+  </max_salary>
+  <max_salary>
     <date>1993-04-08</date>
     <salary>86445</salary>
   </max_salary>
@@ -1159,6 +1187,10 @@
     <salary>90341</salary>
   </max_salary>
   <max_salary>
+    <date>1993-06-03</date>
+    <salary>90341</salary>
+  </max_salary>
+  <max_salary>
     <date>1993-06-09</date>
     <salary>90341</salary>
   </max_salary>
@@ -1168,6 +1200,10 @@
   </max_salary>
   <max_salary>
     <date>1993-06-24</date>
+    <salary>90341</salary>
+  </max_salary>
+  <max_salary>
+    <date>1993-06-29</date>
     <salary>90341</salary>
   </max_salary>
   <max_salary>
@@ -1300,6 +1336,10 @@
   </max_salary>
   <max_salary>
     <date>1993-12-07</date>
+    <salary>90341</salary>
+  </max_salary>
+  <max_salary>
+    <date>1993-12-10</date>
     <salary>90341</salary>
   </max_salary>
   <max_salary>
@@ -1556,6 +1596,10 @@
   </max_salary>
   <max_salary>
     <date>1994-11-21</date>
+    <salary>89891</salary>
+  </max_salary>
+  <max_salary>
+    <date>1994-12-02</date>
     <salary>89891</salary>
   </max_salary>
   <max_salary>
@@ -1895,6 +1939,10 @@
     <salary>94064</salary>
   </max_salary>
   <max_salary>
+    <date>1996-02-27</date>
+    <salary>94064</salary>
+  </max_salary>
+  <max_salary>
     <date>1996-03-11</date>
     <salary>94064</salary>
   </max_salary>
@@ -2063,6 +2111,10 @@
     <salary>97898</salary>
   </max_salary>
   <max_salary>
+    <date>1996-10-11</date>
+    <salary>97898</salary>
+  </max_salary>
+  <max_salary>
     <date>1996-10-16</date>
     <salary>97898</salary>
   </max_salary>
@@ -2187,6 +2239,10 @@
     <salary>97898</salary>
   </max_salary>
   <max_salary>
+    <date>1997-02-14</date>
+    <salary>97898</salary>
+  </max_salary>
+  <max_salary>
     <date>1997-02-17</date>
     <salary>97898</salary>
   </max_salary>
@@ -2295,6 +2351,10 @@
     <salary>100587</salary>
   </max_salary>
   <max_salary>
+    <date>1997-07-08</date>
+    <salary>100587</salary>
+  </max_salary>
+  <max_salary>
     <date>1997-07-15</date>
     <salary>100587</salary>
   </max_salary>
@@ -2388,6 +2448,10 @@
   </max_salary>
   <max_salary>
     <date>1997-10-10</date>
+    <salary>100587</salary>
+  </max_salary>
+  <max_salary>
+    <date>1997-10-15</date>
     <salary>100587</salary>
   </max_salary>
   <max_salary>
@@ -2560,6 +2624,10 @@
   </max_salary>
   <max_salary>
     <date>1998-04-04</date>
+    <salary>100587</salary>
+  </max_salary>
+  <max_salary>
+    <date>1998-04-06</date>
     <salary>100587</salary>
   </max_salary>
   <max_salary>
@@ -2811,6 +2879,10 @@
     <salary>102901</salary>
   </max_salary>
   <max_salary>
+    <date>1998-12-06</date>
+    <salary>102901</salary>
+  </max_salary>
+  <max_salary>
     <date>1998-12-10</date>
     <salary>102901</salary>
   </max_salary>
@@ -2879,6 +2951,10 @@
     <salary>102901</salary>
   </max_salary>
   <max_salary>
+    <date>1999-02-04</date>
+    <salary>102901</salary>
+  </max_salary>
+  <max_salary>
     <date>1999-02-07</date>
     <salary>102901</salary>
   </max_salary>
@@ -2896,6 +2972,10 @@
   </max_salary>
   <max_salary>
     <date>1999-02-25</date>
+    <salary>102901</salary>
+  </max_salary>
+  <max_salary>
+    <date>1999-03-08</date>
     <salary>102901</salary>
   </max_salary>
   <max_salary>
@@ -2952,6 +3032,14 @@
   </max_salary>
   <max_salary>
     <date>1999-05-02</date>
+    <salary>102901</salary>
+  </max_salary>
+  <max_salary>
+    <date>1999-05-04</date>
+    <salary>102901</salary>
+  </max_salary>
+  <max_salary>
+    <date>1999-05-07</date>
     <salary>102901</salary>
   </max_salary>
   <max_salary>
@@ -3084,6 +3172,10 @@
   </max_salary>
   <max_salary>
     <date>1999-08-30</date>
+    <salary>105128</salary>
+  </max_salary>
+  <max_salary>
+    <date>1999-08-31</date>
     <salary>105128</salary>
   </max_salary>
   <max_salary>
@@ -3255,6 +3347,10 @@
     <salary>105128</salary>
   </max_salary>
   <max_salary>
+    <date>2000-02-04</date>
+    <salary>105128</salary>
+  </max_salary>
+  <max_salary>
     <date>2000-02-07</date>
     <salary>105128</salary>
   </max_salary>
@@ -3292,6 +3388,10 @@
   </max_salary>
   <max_salary>
     <date>2000-03-31</date>
+    <salary>105128</salary>
+  </max_salary>
+  <max_salary>
+    <date>2000-04-03</date>
     <salary>105128</salary>
   </max_salary>
   <max_salary>
@@ -3412,6 +3512,10 @@
   </max_salary>
   <max_salary>
     <date>2000-07-29</date>
+    <salary>105845</salary>
+  </max_salary>
+  <max_salary>
+    <date>2000-07-31</date>
     <salary>105845</salary>
   </max_salary>
   <max_salary>
@@ -3599,6 +3703,10 @@
     <salary>105845</salary>
   </max_salary>
   <max_salary>
+    <date>2001-01-15</date>
+    <salary>105845</salary>
+  </max_salary>
+  <max_salary>
     <date>2001-01-19</date>
     <salary>105845</salary>
   </max_salary>
@@ -3664,6 +3772,10 @@
   </max_salary>
   <max_salary>
     <date>2001-04-06</date>
+    <salary>105845</salary>
+  </max_salary>
+  <max_salary>
+    <date>2001-04-15</date>
     <salary>105845</salary>
   </max_salary>
   <max_salary>
@@ -3799,6 +3911,10 @@
     <salary>106912</salary>
   </max_salary>
   <max_salary>
+    <date>2001-08-13</date>
+    <salary>106912</salary>
+  </max_salary>
+  <max_salary>
     <date>2001-08-14</date>
     <salary>106912</salary>
   </max_salary>
@@ -3860,6 +3976,10 @@
   </max_salary>
   <max_salary>
     <date>2001-10-09</date>
+    <salary>106912</salary>
+  </max_salary>
+  <max_salary>
+    <date>2001-10-11</date>
     <salary>106912</salary>
   </max_salary>
   <max_salary>
@@ -3979,11 +4099,19 @@
     <salary>106912</salary>
   </max_salary>
   <max_salary>
+    <date>2002-01-31</date>
+    <salary>106912</salary>
+  </max_salary>
+  <max_salary>
     <date>2002-02-01</date>
     <salary>106912</salary>
   </max_salary>
   <max_salary>
     <date>2002-02-06</date>
+    <salary>106912</salary>
+  </max_salary>
+  <max_salary>
+    <date>2002-02-12</date>
     <salary>106912</salary>
   </max_salary>
   <max_salary>
@@ -4103,6 +4231,10 @@
     <salary>110212</salary>
   </max_salary>
   <max_salary>
+    <date>2002-07-06</date>
+    <salary>110212</salary>
+  </max_salary>
+  <max_salary>
     <date>2002-07-14</date>
     <salary>110212</salary>
   </max_salary>
@@ -4128,6 +4260,10 @@
   </max_salary>
   <max_salary>
     <date>2002-07-29</date>
+    <salary>110212</salary>
+  </max_salary>
+  <max_salary>
+    <date>9999-12-31</date>
     <salary>110212</salary>
   </max_salary>
 </max_salary_history>

@@ -1,10 +1,3 @@
-declare function local:untilnow($x as xs:date) as xs:date{
-	if(fn:year-from-date($x) = 9999) 
-	then fn:adjust-date-to-timezone( current-date( ), () )
-	else 
-		xs:date($x)
-};
-
 declare function local:min( $date1 as xs:string, $date2 as xs:string ) as xs:date
 {
 	if( xs:date($date1)>xs:date($date2) )
@@ -30,7 +23,7 @@ declare function local:overlap( $deptno as element()* ) as element()* {
 	return element manager {
 		element mgrno{$mgrno/text()},
 		element tstart{$tstart},
-		element tend{local:untilnow($tend)}
+		element tend{$tend}
 	} 
 };
 
@@ -43,7 +36,7 @@ element employees {
 			return element title{
 				element title_name{$title/text()},
 				element tstart{$title/@tstart/data()},
-				element tend{local:untilnow($title/@tend/data())}
+				element tend{$title/@tend/data()}
 			} 	
 		},
 		for $deptno in $employee/deptno
