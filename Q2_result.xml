@@ -1,154 +1,140 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet type="text/xsl" href="Q2_style.xsl"?>
+
 <employees>
   <employee>
     <name>Patricio Bridgland</name>
     <salary>42318</salary>
-    <deptname>Development</deptname>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Mingsen Casley</name>
     <salary>40919</salary>
-    <deptname>Production</deptname>
+    <deptno>d004</deptno>
   </employee>
   <employee>
     <name>Lucien Rosenbaum</name>
     <salary>43485</salary>
-    <deptname>Research</deptname>
+    <deptno>d008</deptno>
   </employee>
   <employee>
     <name>Basil Tramer</name>
     <salary>40484</salary>
-    <deptname>Cuustomer Service</deptname>
+    <deptno>d009</deptno>
   </employee>
   <employee>
     <name>Mona Azuma</name>
     <salary>40000</salary>
-    <deptname>Human Resources</deptname>
+    <deptno>d003</deptno>
   </employee>
   <employee>
     <name>Kenroku Malabarba</name>
     <salary>40000</salary>
-    <deptname>Production</deptname>
+    <deptno>d004</deptno>
   </employee>
   <employee>
     <name>Amabile Gomatam</name>
     <salary>43812</salary>
-    <deptname>Development</deptname>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Mariusz Prampolini</name>
     <salary>42756</salary>
-    <deptname>Production</deptname>
+    <deptno>d004</deptno>
   </employee>
   <employee>
     <name>Zhonghui Zyda</name>
     <salary>43697</salary>
-    <deptname>Development</deptname>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Tzvetan Hettesheimer</name>
     <salary>41712</salary>
-    <deptname>Development</deptname>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Karsten Szmurlo</name>
     <salary>43868</salary>
-    <deptname>Human Resources</deptname>
+    <deptno>d003</deptno>
   </employee>
   <employee>
     <name>Kasidit Krzyzanowski</name>
     <salary>40000</salary>
-    <deptname>Development</deptname>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Mabhin Leijenhorst</name>
     <salary>41982</salary>
-    <deptname>Production</deptname>
+    <deptno>d004</deptno>
   </employee>
   <employee>
     <name>Jackson Kakkad</name>
     <salary>40000</salary>
-    <deptname>Cuustomer Service</deptname>
+    <deptno>d009</deptno>
   </employee>
   <employee>
     <name>Genta Kolvik</name>
     <salary>42829</salary>
-    <deptname>Development</deptname>
-  </employee>
-  <employee>
-    <name>Genta Kolvik</name>
-    <salary>42829</salary>
-    <deptname>Cuustomer Service</deptname>
+    <deptno>d009d005</deptno>
   </employee>
   <employee>
     <name>Lein Vendrig</name>
     <salary>40000</salary>
-    <deptname>Human Resources</deptname>
+    <deptno>d003</deptno>
   </employee>
   <employee>
     <name>Ramalingam Gente</name>
     <salary>40000</salary>
-    <deptname>Research</deptname>
+    <deptno>d008</deptno>
   </employee>
   <employee>
     <name>Saddek Gopalakrishnan</name>
     <salary>40000</salary>
-    <deptname>Cuustomer Service</deptname>
+    <deptno>d009</deptno>
   </employee>
   <employee>
     <name>Shay Poulakidas</name>
     <salary>43428</salary>
-    <deptname>Development</deptname>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Hausi Sidhu</name>
     <salary>40000</salary>
-    <deptname>Quality Management</deptname>
+    <deptno>d006</deptno>
   </employee>
   <employee>
     <name>Clyde Fandrianto</name>
     <salary>42419</salary>
-    <deptname>Sales</deptname>
+    <deptno>d007</deptno>
   </employee>
   <employee>
     <name>Khatoun Imataki</name>
     <salary>40771</salary>
-    <deptname>Production</deptname>
+    <deptno>d004</deptno>
   </employee>
   <employee>
     <name>Irena Reutenauer</name>
     <salary>43242</salary>
-    <deptname>Production</deptname>
+    <deptno>d004</deptno>
   </employee>
   <employee>
     <name>Maik Ushiama</name>
     <salary>43444</salary>
-    <deptname>Development</deptname>
-  </employee>
-  <employee>
-    <name>Maik Ushiama</name>
-    <salary>43444</salary>
-    <deptname>Cuustomer Service</deptname>
+    <deptno>d009d005</deptno>
   </employee>
   <employee>
     <name>Duro Coney</name>
     <salary>40616</salary>
-    <deptname>Production</deptname>
+    <deptno>d004</deptno>
   </employee>
   <employee>
     <name>Mihalis Heering</name>
     <salary>40000</salary>
-    <deptname>Development</deptname>
-  </employee>
-  <employee>
-    <name>Mihalis Heering</name>
-    <salary>40000</salary>
-    <deptname>Research</deptname>
+    <deptno>d005d008</deptno>
   </employee>
   <employee>
     <name>Valter Cappelletti</name>
     <salary>40000</salary>
-    <deptname>Production</deptname>
+    <deptno>d004</deptno>
   </employee>
 </employees>
