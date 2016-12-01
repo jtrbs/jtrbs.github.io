@@ -75,7 +75,7 @@
   <employee>
     <name>Genta Kolvik</name>
     <salary>42829</salary>
-    <deptno>d009d005</deptno>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Lein Vendrig</name>
@@ -120,7 +120,7 @@
   <employee>
     <name>Maik Ushiama</name>
     <salary>43444</salary>
-    <deptno>d009d005</deptno>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Duro Coney</name>
@@ -130,7 +130,7 @@
   <employee>
     <name>Mihalis Heering</name>
     <salary>40000</salary>
-    <deptno>d005d008</deptno>
+    <deptno>d005</deptno>
   </employee>
   <employee>
     <name>Valter Cappelletti</name>

@@ -1,11 +1,12 @@
 element employees {
-	for $x in doc("v-emps.xml")/employees/employee[@tstart <= "1995-01-01" and "1995-01-01" <= @tend]
-	for $salary in doc('v-emps.xml')/employees/employee[empno=$x/empno]/salary
-	where $salary/text() < 44000 and $salary/@tstart <= "1995-01-01" and $salary/@tend >= "1995-01-01"
+	for $x in doc("v-emps.xml")/employees/employee
+	for $deptno in $x/deptno[@tstart <= "1995-01-06" and "1995-01-06" <= @tend]
+	for $salary in $x/salary
+	where $salary/text() < 44000 and $salary/@tstart <= "1995-01-06" and $salary/@tend >= "1995-01-06"
 	return element employee
 	{
 		element name{$x/firstname/text(),' ',$x/lastname/text()},
 		element salary{$salary/text()},
-		element deptno{$x/deptno/text()}
+		element deptno{$deptno/text()}
 	}
 }
