@@ -16,12 +16,12 @@
 	  <th align="left">Start Time</th>
 	  <th align="left">End Time</th>
     </tr>
-	<xsl:for-each select="title_history">
+	<xsl:for-each select="title_history/title">
 	<tr>
-	  <td><xsl:value-of select="../name"/></td>
-	  <td><xsl:value-of select="title/title_name"/></td>
-	  <td><xsl:value-of select="title/tstart"/></td>
-	  <td><xsl:value-of select="title/tend"/></td>
+	  <td><xsl:value-of select="../../name"/></td>
+	  <td><xsl:value-of select="title_name"/></td>
+	  <td><xsl:value-of select="tstart"/></td>
+	  <td><xsl:value-of select="tend"/></td>
 	</tr>
 	</xsl:for-each>
 	</table>
@@ -34,12 +34,12 @@
 	  <th align="left">Start Time</th>
 	  <th align="left">End Time</th>
     </tr>
-	<xsl:for-each select="manager_history">
+	<xsl:for-each select="manager_history/manager">
 	<tr>
-	  <td><xsl:value-of select="../name"/></td>
-	  <td><xsl:value-of select="manager/mgrno"/></td>
-	  <td><xsl:value-of select="manager/tstart"/></td>
-	  <td><xsl:value-of select="manager/tend"/></td>
+	  <td><xsl:value-of select="../../name"/></td>
+	  <td><xsl:value-of select="mgrno"/></td>
+	  <td><xsl:value-of select="tstart"/></td>
+	  <td><xsl:value-of select="tend"/></td>
 	</tr>
 	</xsl:for-each>
 	</table>
